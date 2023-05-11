@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    margin: 70px auto;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: turquoise;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+p{
+    font-size: 2rem;
+    margin: 20px;
+}
